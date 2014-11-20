@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+    When I initialize a repository git creates a hidden directory to track the files of the work.
+    
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+    In the working directory lives the files of the project, work, etc.
+    In the repository lives the files that have already commited.
+    In the staging area are the cache of the files to be commited.
