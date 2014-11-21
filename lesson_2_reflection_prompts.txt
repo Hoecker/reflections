@@ -1,7 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
     When I initialize a repository git creates a hidden directory to track the files of the work.
-    
+
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
     In the working directory lives the files of the project, work, etc.
@@ -15,4 +15,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
     Branches are helpful when I want to experiment new features that I'm not sure if those changes will work.
+
+How do the diagrams help you visualize the branch structure?
+
+    The diagrams helps to ordering the branches in my mind.
+
 
