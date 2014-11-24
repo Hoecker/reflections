@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
     Changes in remote repository may coflict with changes in the local repository.
     So... don't worry, drink a lot of alcohol and look for a party!
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+    When we fork a repository on Github to my account, it clone and reference the original repository.
+    Cloning a repository is equal to copy the whole thing and includes the history of commits and all versions of the files.
+    Branches are for test new features from a specific commit without affect the master branch or do not desired modifications.
+
