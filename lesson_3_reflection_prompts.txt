@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
     Cloning a repository is equal to copy the whole thing and includes the history of commits and all versions of the files.
     Branches are for test new features from a specific commit without affect the master branch or do not desired modifications.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    To work offline with an actualized copy of the repository.
+
