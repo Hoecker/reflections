@@ -21,3 +21,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
     With telepathy. Obviously with github and git is easier than telepathy. :P
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+    When I work alone, I change the master branch. When I collaborate with others or I work in an experimental feature, is better to work in different branches.
